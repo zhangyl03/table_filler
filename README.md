@@ -8,6 +8,11 @@
 跨平台可用。Windows系统、Linux系统和Mac系统均可使用。
 需要安装python3.7，并安装相应的库。
 
+## Windows打包版本的地址
+对于不会用python的老师，可以到百度网盘下载Windows打包后的可执行文件。下载地址为：
+链接：https://pan.baidu.com/s/1z96KHDsrE7KrqFiYTwTsBg 
+提取码：vtok
+
 # 使用步骤
 1. 将学生成绩按照exam.xlsx的格式整理好；
 （注意：起始的学生成绩必须位于单元格E2中。表格的行数可以增加或减少。表格记录成绩的列数可以是2-4列均可。总分一列可填可不填，但必须存在。表单的名字必须为Sheet1）
