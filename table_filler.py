@@ -1,7 +1,7 @@
 '''
 This is a special tool for XMU, Jan. 4, 2020.
 If you have any questions, please contact the author
-zhangyl@xmu.edu.cn
+95884234@qq.com
 '''
 import xlrd
 from pynput.keyboard import Key, Controller, Listener
